@@ -100,7 +100,7 @@ Add the corresponding configuration to your `claude_desktop_config.json`.
 ```
 *(Note: Replace /absolute/path/to/... with your actual file path)*
 
-### Option B: If you want Claude to run Docker (Local File)
+### Option B: If you want Claude to run Docker
 **選項 B：如果您希望用 Docker 執行 Claude**
 
 ```json
