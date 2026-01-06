@@ -13,4 +13,4 @@ COPY server.py .
 # 內部統一用 8000，這裡寫 8000 就好 
 EXPOSE 8000
 
-CMD ["python", "server.py", "--sse"]
+CMD ["python", "server.py"]
