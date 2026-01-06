@@ -2,7 +2,7 @@ import boto3
 import json
 import logging
 import os
-import uvicorn  # <--- 🟢 修正 1：補上這行！
+import uvicorn  
 from datetime import date, datetime
 from mcp.server.fastmcp import FastMCP
 from botocore.exceptions import ClientError
